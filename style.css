@@ -1,4 +1,11 @@
 li{
     list-style-type:georgian;
     color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul{
+    border: 2px solid;
+    width: fit-content;
+    padding: 30px;
+    border-radius: 15px;
 }
